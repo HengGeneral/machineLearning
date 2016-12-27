@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 class NaiveBayesModel:
 
     def __init__(self):
